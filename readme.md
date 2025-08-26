@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Student at University of Bucharest <br>👨‍💻 4th year Computers and Information Technology<br>🔥  Volunteer at ASMI<br>🚀Python Django C/C++ SQL HTML CSS Linux AutoCAD Networking
+🎓 Student at University of Bucharest - Working on my master's degree in Artificial Inteligence <br>👨‍💻 Bachelor's of Engineering - Computers and Information Technology<br>🚀Python Django C/C++ Linux Networking Docker K8s
 
 
 # 💻 Tech Stack:
